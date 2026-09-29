@@ -1,0 +1,1 @@
+python3 batch_test.py testImages/ test_results.csv --training_res 256 --maxsize 256 -v
